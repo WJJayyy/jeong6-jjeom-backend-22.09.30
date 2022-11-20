@@ -15,25 +15,6 @@
     - 기술 스택: JavaScript, Node.JS, Express, Mysql, AWS,Bcrypt,JSON WEB TOKEN
     - 협업 툴: Github, Trello, Slack, POSTMAN, dbdiagram.io, Figma, RestFul API
 
----
-
-## **팀원별 역할(Backend)**
-
-### 추재호
-
-- Bcrypt 암호화와 JsonWebToken 인증을 적용한 회원가입, 로그인 기능 API 구현
-- 장바구니 ‘READ’, ‘DELETE’ 기능 API 구현
-- 필터링 카테고리 ‘GET’ API 기능 구현
-- 주문 ‘READ’ ‘DELETE’ 기능 구현 / ‘CREATE’ 트랙잭션 협력개발
-- 모델링 /csv 파일 자료업로드 협력개발
-- 프로젝트 발표 자료 작성/ 발표자 역할수행
-
-### 정우진
-
-- 장바구니 ‘CREATE’, ‘UPDATE’ 기능 API 구현
-- 주문 ‘CREATE’, UPDATE’ 기능구현
-- 주문 기능의 ‘Transactions’ 구현
-- DB모델링 및 CSV파일을 이용한 DB 구축
 
 ---
 
