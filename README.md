@@ -7,12 +7,13 @@
 - 사이트 소개
     - 매트리스 판매 사이트 '정육점'을 참고하여, 육류를 포함한 여러 신선 상품을 판매하는 사이트를 기획/제작
     - 메인 페이지(개별 카테고리, 개별 상품), 회원가입/로그인, 상품리스트 및 상품 세부정보, 장바구니 및 주문 기능 구현
+    - 개발은 초기 세팅부터 전부 직접 구현했으며, 아래 데모 영상에서 보이는 기
 - 팀 구성
     - Frontend: 신주안, 안수진, 김효성
     - Backend: 추재호, 정우진
 - 기타
-    - 개발 기간: 2022.09.19 ~ 2022.09.30
-    - 기술 스택: JavaScript, Node.JS, Express, Mysql, AWS,Bcrypt,JSON WEB TOKEN
+    - 개발 기간: 2022.09.19 - 2022. 09. 29
+    - 기술 스택: JavaScript, Node.JS, Express, Mysql, Bcrypt, JWT
     - 협업 툴: Github, Trello, Slack, POSTMAN, dbdiagram.io, Figma, RestFul API
 
 
@@ -22,19 +23,11 @@
 
 ---
 
-![1차 모델링](https://user-images.githubusercontent.com/105404643/193738938-62efccdd-fd55-4978-9067-d06ea3dfefba.png)
+![1차 모델링](file:///Users/WJJay/1st%20project/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%B7erd.png)
 
 ## **시연 영상**
 
 [https://www.youtube.com/watch?v=NzY8gplL_xM](https://www.youtube.com/watch?v=NzY8gplL_xM)
-
----
-
-## BACKEND 발표 자료
-
-해당 발표 자료는 백엔드 부분의 설명을 위해 제작된 PPT입니다.
-
-[1차프로젝트 ppt.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/02736809-ce7b-40ae-96c0-296b172ba862/1%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_ppt.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221004%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221004T050215Z&X-Amz-Expires=86400&X-Amz-Signature=6c1886cee9e0703f02bb1f3559f557a52ac43777d1f1a6e7212fbd3c09573048&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%221%25EC%25B0%25A8%25ED%2594%2584%25EB%25A1%259C%25EC%25A0%259D%25ED%258A%25B8%2520ppt.pdf%22&x-id=GetObject)
 
 ---
 
