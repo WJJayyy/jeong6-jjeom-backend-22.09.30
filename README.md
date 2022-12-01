@@ -10,8 +10,8 @@
     - 초기 세팅 및 시연연상에서 보이는 모든 기능은 팀원들과 직접구현
 - 개발 인원 및 기간
     - 개발 기간: 2022.09.19 - 2022. 09. 29
-    - Frontend 3명, Backend 2명
-    
+    - FrontEnd 3명, BackEnd 2명
+    - [FrontEnd github 링크](https://github.com/wecode-bootcamp-korea/37-1st-jeong6-jjeom-frontend)
 - 기술 스택: JavaScript, Node.JS, Express, Mysql, Bcrypt, JWT
 - 협업 툴: Github, Trello, Slack, POSTMAN, dbdiagram.io, Figma, RestFul API
 
