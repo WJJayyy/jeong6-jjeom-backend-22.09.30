@@ -23,7 +23,7 @@
 
 ---
 
-![1차 모델링](file:///Users/WJJay/1st%20project/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%B7erd.png)
+![1차 모델링](https://user-images.githubusercontent.com/105404643/205057866-318c943f-d69b-4f08-a55f-52bc898944ce.png)
 
 ## **시연 영상**
 
