@@ -14,8 +14,12 @@
     - FrontEnd 3명, BackEnd 2명
     - [FrontEnd github 링크](https://github.com/wecode-bootcamp-korea/37-1st-jeong6-jjeom-frontend)
     <br/>
-- 기술 스택: JavaScript, Node.JS, Express, Mysql, Bcrypt, JWT
-- 협업 툴: Github, Trello, Slack, POSTMAN, dbdiagram.io, Figma, RestFul API
+### 적용 기술
+> - Front-End : `React.js`, `sass`
+
+> - Back-End : `JavaScript`, `Node.JS`, `Express`, `Mysql`, `Bcrypt`, `JWT`
+
+> - Common : `Github`, `Trello`, `Slack`, `POSTMAN`, `dbdiagram.io`, `Figma`, `RestFul API`
 
 
 ---
@@ -23,6 +27,16 @@
 ## **모델링**
 
 ![1차 모델링](https://user-images.githubusercontent.com/105404643/205057866-318c943f-d69b-4f08-a55f-52bc898944ce.png)
+
+---
+
+## **구현 기능**
+- 회원가입
+- 로그인
+- 상품 상세페이지
+- 장바구니
+- 주문하기
+
 
 ## **시연 영상**
 
