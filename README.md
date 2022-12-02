@@ -8,10 +8,12 @@
     - 이커머스 "정육각"을 참고하여, 육류를 포함한 여러 신선 상품을 판매하는 사이트 "정육점"을 기획/제작
     - 메인 페이지(개별 카테고리, 개별 상품), 회원가입/로그인, 상품리스트 및 상품 세부정보, 장바구니 및 주문 기능 구현
     - 초기 세팅 및 시연연상에서 보이는 모든 기능은 팀원들과 직접구현
+    <br/>
 - 개발 인원 및 기간
     - 개발 기간: 2022.09.19 - 2022. 09. 29
     - FrontEnd 3명, BackEnd 2명
     - [FrontEnd github 링크](https://github.com/wecode-bootcamp-korea/37-1st-jeong6-jjeom-frontend)
+    <br/>
 - 기술 스택: JavaScript, Node.JS, Express, Mysql, Bcrypt, JWT
 - 협업 툴: Github, Trello, Slack, POSTMAN, dbdiagram.io, Figma, RestFul API
 
