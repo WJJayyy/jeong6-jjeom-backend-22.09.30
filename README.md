@@ -14,7 +14,7 @@
     - FrontEnd 3명, BackEnd 2명
     - [FrontEnd github 링크](https://github.com/wecode-bootcamp-korea/37-1st-jeong6-jjeom-frontend)
     <br/>
-### 적용 기술
+### 적용 기술ㅇ
 > - Front-End : `React.js`, `sass`
 
 > - Back-End : `JavaScript`, `Node.JS`, `Express`, `Mysql`, `Bcrypt`, `JWT`
