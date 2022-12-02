@@ -15,11 +15,11 @@
     - [FrontEnd github 링크](https://github.com/wecode-bootcamp-korea/37-1st-jeong6-jjeom-frontend)
     <br/>
 ### 적용 기술
-> - Front-End : `React.js`, `sass`
+> Front-End : `React.js`, `sass`
 
-> - Back-End : `JavaScript`, `Node.JS`, `Express`, `Mysql`, `Bcrypt`, `JWT`
+> Back-End : `JavaScript`, `Node.JS`, `Express`, `Mysql`, `Bcrypt`, `JWT`
 
-> - Common : `Github`, `Trello`, `Slack`, `POSTMAN`, `dbdiagram.io`, `Figma`, `RestFul API`
+> Common : `Github`, `Trello`, `Slack`, `POSTMAN`, `dbdiagram.io`, `Figma`, `RestFul API`
 
 
 ---
