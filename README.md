@@ -17,7 +17,7 @@
 ### 적용 기술
 > Front-End : `React.js`, `sass`
 
-> Back-End : `JavaScript`, `Node.JS`, `Express`, `Mysql`, `Bcrypt`, `JWT`
+> Back-End : `JavaScript`, `Node.JS`, `Express`, `Mysql`, `JWT`
 
 > Common : `Github`, `Trello`, `Slack`, `POSTMAN`, `dbdiagram.io`, `Figma`, `RestFul API`
 
