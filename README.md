@@ -24,7 +24,7 @@
 
 ---
 
-## **모델링**
+## **ERD**
 
 ![1차 모델링](https://user-images.githubusercontent.com/105404643/205057866-318c943f-d69b-4f08-a55f-52bc898944ce.png)
 
